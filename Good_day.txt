@@ -1,1 +1,6 @@
+<<<<<<< 26ea06edf1a1bc0ffae7cd9e525455d0216ca253
 print("Good afternoon, ladies and gentlemen");
+=======
+print("Hello, World");
+lalala
+>>>>>>> 0e15c0cc71710d7b43c3c6601b8d47f026d4f44d
